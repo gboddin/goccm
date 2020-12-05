@@ -1,4 +1,4 @@
-# Golang Concurrency Manager [![Build Status](https://travis-ci.com/zenthangplus/goccm.svg?branch=master)](https://travis-ci.com/zenthangplus/goccm)
+# Golang Concurrency Manager
 
 Golang Concurrency Manager package limits the number of goroutines that are allowed to run concurrently.
 
@@ -7,7 +7,7 @@ Golang Concurrency Manager package limits the number of goroutines that are allo
 Run the following command to install this package:
 
 ```
-$ go get -u github.com/zenthangplus/goccm
+$ go get -u github.com/gboddin/goccm
 ```
 
 ### Example
